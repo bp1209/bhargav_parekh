@@ -1,15 +1,8 @@
 ---
-title: "bhargav_parekh"
+title: "Bhargav's website "
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
-
+![](https://media.giphy.com/media/rFW89rug4UloVjQ0vd/giphy.gif)
